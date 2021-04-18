@@ -59,15 +59,6 @@ h1.logo
     display:inline-block;
     padding-left: 20px;
     padding-right: 20px;
-    border-right: 1px solid #2F4F4F;
-}
-
-.menu>li:first-child
-{
-    display:inline-block;
-    padding-left: 20px;
-    padding-right: 20px;
-    border-left: 1px solid #2F4F4F;
 }
 
 a
