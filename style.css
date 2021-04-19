@@ -8,7 +8,7 @@ body
 
 #tlo
 {
-    background-image: url("img/tlo.jpg");
+    background-image: url("tlo.jpg");
     height: 150px;
     margin: 0px;
     padding: 0;
@@ -140,7 +140,7 @@ figcaption
 
 .trophy
 {
-    background-image: url("img/tlo.jpg");
+    background-image: url("tlo.jpg");
     min-height: 800px;
     margin-right: auto;
     margin-left: auto;
